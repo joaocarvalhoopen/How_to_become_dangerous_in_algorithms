@@ -1,4 +1,4 @@
-# How to become dangerous in algorithms
+# How to become dangerous in Algorithms
 A guide to the intrepid adventurer.
 
 ## Description
