@@ -104,7 +104,7 @@ Then to my knowledge there are **3 similar good paths that you can follow**, but
    by Glyn James, Phil Dyke
 
 5. **Advanced Modern Engineering Mathematics, 5th Ed**<br> 
-   by Prof Glyn James, David Burley, Dick Clements, et al.
+   by Glyn James, David Burley, Dick Clements, et al.
 
 **Third path** <br>
 
