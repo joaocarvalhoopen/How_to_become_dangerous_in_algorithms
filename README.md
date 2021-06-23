@@ -83,36 +83,63 @@ For in depth algorithm analysis you will need discrete math, the following is a 
 1. **Discrete Mathematics and Its Applications 8th Ed**<br>
    by Kenneth Rosen
 
-Then for common mathematics you start with a pre calculus book like.<br>
+You will need to learn **Linear Algebra** with examples in code (Python and Matlab) without calculus. <br>
 
-2. **Precalculus**<br>
+2. **Linear Algebra: Theory, Intuition, Code**<br>
+   by Mike X Cohen
+
+Then for common mathematics you start with a **Pre Calculus** book like.<br>
+
+3. **Precalculus**<br>
    by Jay Abramson<br>
    [https://openstax.org/details/books/precalculus](https://openstax.org/details/books/precalculus)
 
 
-Then to my knowledge there are **3 similar good paths that you can follow**, but with increasing depth in mathematics.<br>
+Then to my knowledge there are **3 similar good paths that you can follow**, but with increasing depth in mathematics and **Calculus**.<br>
 <br>
 
 **First path** <br>
 
-3. **Engineering Mathematics, 5th Ed**<br>
+4. **Engineering Mathematics, 5th Ed**<br>
    by Prof Anthony Croft, Dr Robert Davison, et al.
 
 **Second path** <br>
 
-4. **Modern Engineering Mathematics, 6th Ed**<br>
+5. **Modern Engineering Mathematics, 6th Ed**<br>
    by Glyn James, Phil Dyke
 
-5. **Advanced Modern Engineering Mathematics, 5th Ed**<br> 
+6. **Advanced Modern Engineering Mathematics, 5th Ed**<br> 
    by Glyn James, David Burley, Dick Clements, et al.
 
 **Third path** <br>
 
-6. **Mathematical Methods for Physics and Engineering: A Comprehensive Guide 3rd Ed**<br>
+7. **Mathematical Methods for Physics and Engineering: A Comprehensive Guide 3rd Ed**<br>
    by K. F. Riley
 
-7. **Student Solution Manual 1st Ed for Mathematical Methods for Physics and Engineering 3th Ed**<br>
+8. **Student Solution Manual 1st Ed for Mathematical Methods for Physics and Engineering 3th Ed**<br>
    by K. F. Riley
+
+Then you need to learn about **Probability** and **Statistics** the following are two nice books with a companion book with the solutions. <br>
+
+9. **Probability: For the Enthusiastic Beginner**<br>
+	by David J. Morin
+
+10. **Introduction to Probability, Statistics, and Random Processes**<br>
+   by Hossein Pishro-Nik <br>
+   [http://www.probabilitycourse.com/preface.php](http://www.probabilitycourse.com/preface.php)
+
+11. **Student's Solutions Guide for Introduction to Probability, Statistics, and Random Processes**<br>
+    by Hossein Pishro-Nik <br>
+    [http://www.probabilitycourse.com/preface.php](http://www.probabilitycourse.com/preface.php)
+
+Then you will need to learn about **Optimization**, two good books, the first with code in Julia.<br>
+
+12. **Algorithms for Optimization** <br>
+    by Mykel J. Kochenderfer, Tim A. Wheeler
+
+13. **Convex Optimization** <br>
+    by Boyd, Vandenberghe <br>
+    [https://web.stanford.edu/~boyd/cvxbook/](https://web.stanford.edu/~boyd/cvxbook/)
 
 
 ## Have fun!
