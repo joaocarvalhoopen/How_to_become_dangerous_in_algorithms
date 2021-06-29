@@ -1,6 +1,7 @@
 # How to become dangerous in Algorithms
 A guide to the intrepid adventurer.
 
+
 ## Description
 
 **Algorithms and data structures are the bases of all programs**, they can be the difference between a program running for 1 seconds vs running for the age of the universe. They can be the difference between finding a rapid solutions by remembering a similar solution, that you can frame a problem with a known problem, or detecting that it is a NP Complete problem because you can frame it as a similar known problem. In that case maybe a simple greedy algorithm is the best choice. When I say “become dangerous in algorithms” I don’t mean to do bad stuff, I mean become really good at algorithms :-D <br>
@@ -74,6 +75,9 @@ You will need a bases of numerical methods and it’s applications.<br>
 
 4. **Computational Physics: Problem Solving with Python 3rd Ed**<br>
    by Rubin H. Landau, Manuel J Páez, Cristian C. Bordeianu
+
+5. **Applied Computational Physics**<br>
+   by Joseph F. Boudreau, Eric S. Swanson
 
 
 ## Mathematical bases
