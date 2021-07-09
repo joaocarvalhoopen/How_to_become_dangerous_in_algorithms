@@ -146,6 +146,13 @@ Then you will need to learn about **Optimization**, two good books, the first wi
     [https://web.stanford.edu/~boyd/cvxbook/](https://web.stanford.edu/~boyd/cvxbook/)
 
 
+# All my other guides
+
+* The links to all my guides are in: <br>
+  **Guides on Linux - Programming - Embedded - Electronics - Aeronautics** <br>
+  [https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
+
+
 ## Have fun!
 
 Best regards, <br>
