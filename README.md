@@ -84,8 +84,8 @@ You will need a bases of numerical methods and it’s applications.<br>
 
 For in depth algorithm analysis you will need discrete math, the following is a good book:<br>
 
-1. **Discrete Mathematics and Its Applications 8th Ed**<br>
-   by Kenneth Rosen
+1. **Discrete Mathematics with Applications 5th Ed** <br>
+   by Susanna S. Epp
 
 You will need to learn **Linear Algebra** with examples in code (Python and Matlab) without calculus. <br>
 
