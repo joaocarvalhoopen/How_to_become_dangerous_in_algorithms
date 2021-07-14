@@ -79,6 +79,12 @@ You will need a bases of numerical methods and it’s applications.<br>
 5. **Applied Computational Physics**<br>
    by Joseph F. Boudreau, Eric S. Swanson
 
+6. **Hans Petter Langtangen - Various writings** <br>
+   [http://hplgit.github.io/](http://hplgit.github.io/)
+
+7. **Hans Petter Langtangen - Last versions** <br>
+   [https://library.oapen.org/discover?rpp=10&etal=0&query=Langtangen%2C+Hans+Petter&scope=&group_by=none&page=1](https://library.oapen.org/discover?rpp=10&etal=0&query=Langtangen%2C+Hans+Petter&scope=&group_by=none&page=1)
+
 
 ## Mathematical bases
 
