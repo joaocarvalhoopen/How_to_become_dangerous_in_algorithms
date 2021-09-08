@@ -30,32 +30,35 @@ Then if you liked the subject and desire to go farther and want to see were the 
 5. **Introduction to Algorithms, 3rd Ed**<br>
    by Cormen, Leiserson, Rivest, Stein
 
+6. **Wikipedia list of algorithms** <br>
+   [https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+
 Then if you want to see the life’s work of a great men, one of his masterpieces, Prof. Donald Knuth and appreciate the most beautiful algorithms explained with an incredible attention to the smallest details, see the following book series. It will take several years to go through them. The algorithms are expressed in a assembly instruction set, MMIX, defined explicitly for the book. <br>
 
-6. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
+7. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
    by Donald Knuth, Donald John Fuller  
 
-7. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
+8. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
    by Martin Ruckert
 
-8. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
+9. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
    by Donald Knuth, John Fuller
 
-9. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
-   by Donald Knuth
+10. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
+    by Donald Knuth
 
-10. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
+11. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
     by Donald Knuth
 
 Then there are some nice to have books, like: <br>
 
-11. **The Algorithm Design Manual, 3rd Ed**<br>
-   by Steven S. Skiena
+12. **The Algorithm Design Manual, 3rd Ed**<br>
+    by Steven S. Skiena
 
 Also a good introduction book to algorithms, with simple explanations and Java code.<br>
 
-12. **Algorithms 4th Edition**<br>
-   by Robert Sedgewick, Kevin Wayne
+13. **Algorithms 4th Edition**<br>
+    by Robert Sedgewick, Kevin Wayne
 
 
 ## Numerical algorithms
