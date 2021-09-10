@@ -19,46 +19,60 @@ Then after reading it, you can continue in the easy path, but with more depth an
 2. **A Common-Sense Guide to Data Structures and Algorithms, 2th Ed**<br>
    by Jay Wengrow
 
-Then if you liked the subject and desire to go farther and want to see were the rabbit hole goes, you can read three wonderful books, two are from competitive programming in C++ and one the classical bible of algorithms and data structures. <br>
+Then **if you liked the subject and desire to go farther** and **want to see were the rabbit hole goes**, you can read the following four wonderful books, the first one is accessible but at the same time in depth, with a **Hitchhiker’s Guide to Algorithms**. The following two, are from competitive programming in C++ and the last one the classical bible of algorithms and data structures. In the site of the first one you can see links to good implementation of those complex algorithms shown in the book.<br>
 
-3. **Guide to Competitive Programming: Learning and Improving Algorithms Through Contests 2th Ed**<br>
+3. **The Algorithm Design Manual, 3rd Ed**<br>
+   by Steven S. Skiena <br>
+   [https://www.algorist.com/](https://www.algorist.com/) <br>
+   **The Stony Brook Algorithm Repository** <br>
+   [https://www.algorist.com/algorist.html](https://www.algorist.com/algorist.html)
+
+4. **Guide to Competitive Programming: Learning and Improving Algorithms Through Contests 2th Ed**<br>
    by Antti Laaksonen
 
-4. **Algorithms: For Competitive Programming**<br>
+5. **Algorithms: For Competitive Programming**<br>
    by David Esparza Alba, Juan Antonio Ruiz Leal
 
-5. **Introduction to Algorithms, 3rd Ed**<br>
+6. **Introduction to Algorithms, 3rd Ed**<br>
    by Cormen, Leiserson, Rivest, Stein
 
-6. **Wikipedia list of algorithms** <br>
+7. **Wikipedia list of algorithms** <br>
    [https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 
 Then if you want to see the life’s work of a great men, one of his masterpieces, Prof. Donald Knuth and appreciate the most beautiful algorithms explained with an incredible attention to the smallest details, see the following book series. It will take several years to go through them. The algorithms are expressed in a assembly instruction set, MMIX, defined explicitly for the book. <br>
 
-7. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
+8. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
    by Donald Knuth, Donald John Fuller  
 
-8. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
+9. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
    by Martin Ruckert
 
-9. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
-   by Donald Knuth, John Fuller
+10. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
+    by Donald Knuth, John Fuller
 
-10. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
+11. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
     by Donald Knuth
 
-11. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
+12. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
     by Donald Knuth
 
-Then there are some nice to have books, like: <br>
+Nice to have book that introduce and give already a middle ground on the subject of algorithms, with nice illustrations. <br>
 
-12. **The Algorithm Design Manual, 3rd Ed**<br>
-    by Steven S. Skiena
+13. **Introduction to the Design and Analysis of Algorithms 3rd Ed** <br>
+    by Anany Levitin
+
 
 Also a good introduction book to algorithms, with simple explanations and Java code.<br>
 
-13. **Algorithms 4th Edition**<br>
+14. **Algorithms 4th Edition**<br>
     by Robert Sedgewick, Kevin Wayne
+
+
+## BioInformatics algorithms
+
+1. **BioInformatics Algorithms - An Active Learning Approach, 3rd Ed** <br>
+   by Phillip Compeau, Pavel Pevzner <br>
+   [https://www.bioinformaticsalgorithms.org/](https://www.bioinformaticsalgorithms.org/)
 
 
 ## Numerical algorithms
@@ -155,6 +169,12 @@ Then you will need to learn about **Optimization**, two good books, the first wi
 13. **Convex Optimization** <br>
     by Boyd, Vandenberghe <br>
     [https://web.stanford.edu/~boyd/cvxbook/](https://web.stanford.edu/~boyd/cvxbook/)
+
+In this context... <br>
+
+* See my guide on Mathematics. <br>
+  **How to learn Mathematics from the ground up** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up](https://github.com/joaocarvalhoopen/How_to_learn_Mathematics_from_ground_up)
 
 
 # All my other guides
