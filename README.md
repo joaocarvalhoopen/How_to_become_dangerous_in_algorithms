@@ -39,32 +39,36 @@ Then **if you liked the subject and desire to go farther** and **want to see wer
 7. **Wikipedia list of algorithms** <br>
    [https://en.wikipedia.org/wiki/List_of_algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
 
+8. **Algorithm Wiki** <br>
+   Crowdsourced Resource on Algorithms and their Development <br>
+   [http://algorithm-wiki.org/](http://algorithm-wiki.org/)
+
 Then if you want to see the life’s work of a great men, one of his masterpieces, Prof. Donald Knuth and appreciate the most beautiful algorithms explained with an incredible attention to the smallest details, see the following book series. It will take several years to go through them. The algorithms are expressed in a assembly instruction set, MMIX, defined explicitly for the book. <br>
 
-8. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
+9. **The Art of Computer Programming, Volumes 1-4A Boxed Set**<br>
    by Donald Knuth, Donald John Fuller  
 
-9. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
-   by Martin Ruckert
+10. **MMIX Supplement, The: Supplement to The Art of Computer Programming Volumes 1, 2, 3 by Donald E. Knuth 1st Ed**<br>
+    by Martin Ruckert
 
-10. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
+11. **Art of Computer Programming, Volume 1, Fascicle 1, The: MMIX -- A RISC Computer for the New Millennium 1st Ed**<br>
     by Donald Knuth, John Fuller
 
-11. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
+12. **The Art of Computer Programming, Volume 4, Fascicle 5: Mathematical Preliminaries Redux; Introduction to Backtracking; Dancing Links 1st Ed**<br>
     by Donald Knuth
 
-12. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
+13. **Art of Computer Programming, Volume 4, Fascicle 6, The: Satisfiability 1st Ed**<br>
     by Donald Knuth
 
 Nice to have book that introduce and give already a middle ground on the subject of algorithms, with nice illustrations. <br>
 
-13. **Introduction to the Design and Analysis of Algorithms 3rd Ed** <br>
+14. **Introduction to the Design and Analysis of Algorithms 3rd Ed** <br>
     by Anany Levitin
 
 
 Also a good introduction book to algorithms, with simple explanations and Java code.<br>
 
-14. **Algorithms 4th Edition**<br>
+15. **Algorithms 4th Edition**<br>
     by Robert Sedgewick, Kevin Wayne
 
 
