@@ -25,7 +25,9 @@ Then **if you liked the subject and desire to go farther** and **want to see wer
    by Steven S. Skiena <br>
    [https://www.algorist.com/](https://www.algorist.com/) <br>
    **The Stony Brook Algorithm Repository** <br>
-   [https://www.algorist.com/algorist.html](https://www.algorist.com/algorist.html)
+   [https://www.algorist.com/algorist.html](https://www.algorist.com/algorist.html) <br>
+   **Lectures and slides** <br>
+   [https://www3.cs.stonybrook.edu/~skiena/373/videos/](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 
 4. **Guide to Competitive Programming: Learning and Improving Algorithms Through Contests 2th Ed**<br>
    by Antti Laaksonen
@@ -33,7 +35,7 @@ Then **if you liked the subject and desire to go farther** and **want to see wer
 5. **Algorithms: For Competitive Programming**<br>
    by David Esparza Alba, Juan Antonio Ruiz Leal
 
-6. **Introduction to Algorithms, 3rd Ed**<br>
+6. **Introduction to Algorithms, 4rd Ed**<br>
    by Cormen, Leiserson, Rivest, Stein
 
 7. **Wikipedia list of algorithms** <br>
